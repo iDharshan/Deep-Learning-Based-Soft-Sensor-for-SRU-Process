@@ -1,4 +1,4 @@
-# Deep-Learning-Based-Soft-Sensor-for-SRU-Process
+# Efficient SRU Optimization via Deep Learning-driven LSTM Dynamical Models
 
 ## Project Overview:
 This project utilizes Long Short-Term Memory (LSTM) networks to estimate key variables in a sulfur recovery unit (SRU) of a refinery plant. The goal is to achieve accurate predictions for process optimization, even in offline analyzer scenarios.
